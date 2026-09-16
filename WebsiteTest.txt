@@ -3,6 +3,6 @@ website create Pockety test website!
 pkg install maulwurfi2014/Pockety fish.jpeg
 cd website
 cd assets
-website image fish.jpeg
+website homeimage fish.jpeg
 echo Website loading finnished!
 website start
