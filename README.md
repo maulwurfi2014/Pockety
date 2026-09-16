@@ -1,2 +1,2 @@
 # Pockety
-A tiny pcb for Linux ike terminals, games and more features!
+A tiny pcb for Linux like terminals, games and more features!
