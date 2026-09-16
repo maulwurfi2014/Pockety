@@ -1,1 +1,2 @@
-echo Test package installed!
+MINIOS_SCRIPT
+echo Test passed!
