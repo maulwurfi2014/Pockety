@@ -1,1 +1,1 @@
-pkgtest|1.0|https://raw.githubusercontent.com/maulwurfi2014/Pockety/main/pkgtest.txt|MiniOS test text file
+echo Test package installed!
